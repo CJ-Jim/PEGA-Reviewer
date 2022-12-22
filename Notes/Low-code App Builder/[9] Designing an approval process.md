@@ -1,27 +1,28 @@
-Designing an approval process
+# Designing an approval process
 
-- [1. Work approval](#1-work-approval)
-    - [Case approvals](#case-approvals)
-    - [The Approve/Reject step](#the-approvereject-step)
-    - [Routing](#routing)
-    - [Routing notifications](#routing-notifications)
-    - [Flow](#flow)
+- [Designing an approval process](#designing-an-approval-process)
+    - [1. Work approval](#1-work-approval)
+        - [1.1. Case approvals](#11-case-approvals)
+        - [1.2. The Approve/Reject step](#12-the-approvereject-step)
+        - [1.3. Routing](#13-routing)
+        - [1.4. Routing notifications](#14-routing-notifications)
+        - [1.5. Flow](#15-flow)
 
 ## 1. Work approval
 
-### Case approvals
+### 1.1. Case approvals
 
 are decision points at which one or more users decide whether to approve or reject a case.
 
-### The Approve/Reject step
+### 1.2. The Approve/Reject step
 
 To configure an Approve/Reject step, you define who is assigned to the approval and how the case proceeds if the case is approved or rejected. To achieve this, you configure the Approve/Reject step routing and flow.
 
-### Routing
+### 1.3. Routing
 
 You can assign approvals to different routing options (e.g. specific user, work queue, and business logic)
 
-### Routing notifications
+### 1.4. Routing notifications
 
 **Email notification**
 
@@ -35,7 +36,7 @@ If the mobile approval is enabled, the application pushes an approval notificati
 
 <img src="../resources/mobile-notification.png" width=600>
 
-### Flow
+### 1.5. Flow
 
 You configure the consequences of approval and rejection by defining the flow.
 
