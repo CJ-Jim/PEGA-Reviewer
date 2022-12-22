@@ -11,7 +11,7 @@ Creating a data relationship
 
 ### Structure
 
-<dl>**Data type**</dl>
+**<dl>Data type</dl>**
 <dt>represents the tecnical implementation for the data object, such as the names and types of fields used to capture and present information about the entity.</dt>
 
 
