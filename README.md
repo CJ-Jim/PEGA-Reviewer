@@ -14,7 +14,7 @@
     - [1.9. Designing an approval process](./Notes/[1]%20Low-code%20App%20Builder/[1.9]%20Designing%20an%20approval%20process.md)
     - [1.10. Sending emails during case processing](./Notes/[1]%20Low-code%20App%20Builder/[1.10]%20Sending%20emails%20during%20case%20processing.md)
 - [2. Low-code App Builder Extended](./Notes/[2]%20Low-code%20App%20Builder%20Extended)
-    - [2.1 Managing application development](./Notes/[2]%20Low-code%20App%20Builder%20Extended/)
+    - [2.1 Managing application development](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.1]%20Managing%20application%20development.md)
     - [2.2 Sizing a PEGA Platform project](./Notes/[2]%20Low-code%20App%20Builder%20Extended)
     - [2.3 Adding optional actions to a workflow](./Notes/[2]%20Low-code%20App%20Builder%20Extended)
     - [2.4 Automating workflow decisions](./Notes/[2]%20Low-code%20App%20Builder%20Extended)
