@@ -24,7 +24,7 @@
     - [2.8 Skipping a process or a stage](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.8]%20Skipping%20a%20process%20or%20a%20stage.md)
     - [2.9 Pausing and resuming case processing](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.9]%20Pausing%20and%20resuming%20case%20processing.md)
     - [2.10 Validating data against business logic](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.10]%20Validating%20data%20against%20business%20logic.md)
-    - [2.11 Exploring application data with insights](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.11]%20Exploring%20application%20data%20with%20Insights.md0)
+    - [2.11 Exploring application data with insights](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.11]%20Exploring%20application%20data%20with%20Insights.md)
     - [2.12 Gaining insight into business efficiency](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.12]%20Gaining%20insight%20into%20business%20efficiency.md)
     - [2.13 Customizing UI elements](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.13]%20Customizing%20UI%20elements.md)
     - [2.14 Customizing a portal content](2.Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.14]%20Customizing%20a%20portal%20content.md)
