@@ -1,6 +1,4 @@
-# Work shits
-
-## PEGA Reviewer
+# PEGA Reviewer
 
 - [1. Low-code App Builder](./Notes/[1]%20Low-code%20App%20Builder/)
     - [1.1. Low-code defined](./Notes/[1]%20Low-code%20App%20Builder/%5B1.1%5D%20Low-code%20defined.md)
