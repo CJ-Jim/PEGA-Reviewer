@@ -27,7 +27,7 @@
     - [2.11 Exploring application data with insights](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.11]%20Exploring%20application%20data%20with%20Insights.md)
     - [2.12 Gaining insight into business efficiency](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.12]%20Gaining%20insight%20into%20business%20efficiency.md)
     - [2.13 Customizing UI elements](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.13]%20Customizing%20UI%20elements.md)
-    - [2.14 Customizing a portal content](2.Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.14]%20Customizing%20a%20portal%20content.md)
+    - [2.14 Customizing a portal content](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.14]%20Customizing%20a%20portal%20content.md)
     - [2.15 Customizing a dashboard](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.15]%20Customizing%20a%20dashboard.md)
     - [2.16 Designing a mobile app experience](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.16]%20Designing%20a%20mobile%20app%20experience.md)
     - [2.17 Calculating fields using decision tables](Notes/[2]%20Low-code%20App%20Builder%20Extended/[2.17]%20Calculating%20fields%20using%20decision%20tables.md)
